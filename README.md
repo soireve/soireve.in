@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- Replace with your actual banner image URL -->
-<img src="https://soireve.in/assets/banner.jpg" alt="Soirée Banner" width="100%"/>
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/MQUhxOZ2QV7c0xFK/untitled-design_20260223_022221_0000-B7cN3takjUxgpPRP.png" alt="Soiréve — Luxury Gifting & Bags" width="50%"/>
 
-<br/>
-<br/>
+<br/><br/>
 
 # ✦ S O I R É E ✦
+### *Luxury Bags. Festive Gifting. Crafted with Love.*
 
-### *Where Craft Meets Couture*
+<br/>
 
-[![Website](https://img.shields.io/badge/Visit%20Us-soireve.in-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soireve.in)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soireve)
-[![Email](https://img.shields.io/badge/Contact%20Us-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@soireve.in)
+[![Website](https://img.shields.io/badge/🌐%20soireve.in-Visit%20Us-000000?style=for-the-badge)](https://soireve.in)
+[![Instagram](https://img.shields.io/badge/Instagram-soireve.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soireve.in/)
+[![Facebook](https://img.shields.io/badge/Facebook-soireve.in-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/soireve.in/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919930555442)
+[![Email](https://img.shields.io/badge/Email-info@soireve.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@soireve.in)
 
 </div>
 
@@ -20,68 +21,48 @@
 
 ## ✦ About Soirée
 
-> *"Every bag tells a story. Every stitch, a promise."*
+> *"The perfect gift isn't found — it's crafted."*
 
-**Soirée** is a luxury handcrafted purse brand born from the belief that true elegance is timeless. Each piece in our collection is a seamless blend of artisanal craftsmanship, premium materials, and contemporary design — made for the woman who walks into every room like it was made for her.
+**Soirée** is an Indian luxury gifting and bag brand specialising in handcrafted bottle bags, wine bags, and bespoke festive gift collections. Whether it's a corporate gifting hamper, a Diwali centrepiece, or an elegant evening accessory — every Soirée piece is designed to make an unforgettable first impression.
 
 ---
 
-## ✦ Our Collections
+## ✦ Our Signature Collections
 
 | Collection | Description |
 |---|---|
-| 🖤 **Noir Evening** | Structured silhouettes for after-dark elegance |
-| 🤍 **Ivory Atelier** | Soft, hand-stitched pieces in cream & ivory tones |
-| ✨ **Soirée Signature** | Our iconic monogrammed heritage line |
-| 🌿 **Verdant Edit** | Sustainable luxury in earth-tone palettes |
+| 🍾 **Bottle Bag Edit** | Luxury wine & bottle bags — the perfect gifting statement |
+| 🪔 **Festive Essentials** | Curated Diwali & seasonal gifting collections |
+| 🎁 **Corporate Gifting** | Bespoke bulk gifting with customisation options |
+| 🖤 **Soirée Signature** | Everyday luxury bags with timeless elegance |
 
 ---
 
-## ✦ What Makes Us Different
+## ✦ Why Soirée?
 
-- **Handcrafted** — Every piece is hand-assembled by skilled artisans
-- **Premium Materials** — Full-grain leather, custom-dyed fabrics & brass hardware
-- **Limited Runs** — Small-batch collections to maintain exclusivity
-- **Made in India** — Proudly crafted, globally coveted
-- **Sustainable Packaging** — Zero-plastic, 100% recyclable unboxing experience
-
----
-
-## ✦ The Soirée Experience
-
-```
-🛍️  Browse  →  soireve.in
-📦  Shipping  →  Pan India | International Available
-💬  Styling Advice  →  hello@soireve.in
-📸  Instagram  →  @soireve
-```
+- 🤲 **Handcrafted** — Every piece made with artisanal precision
+- 🇮🇳 **Made in India** — Proudly Indian, globally inspired
+- 🎨 **Customisable** — Personalised gifting available on request
+- 📦 **Pan-India Delivery** — Swift, secure, and beautifully packaged
+- 🌿 **Sustainable Packaging** — Thoughtful unboxing, minimal waste
 
 ---
 
-## ✦ Press & Recognition
-
-> *"A new name in Indian luxury that the world should watch."*
-
-- 🏆 Featured in **Vogue India** — *Best Emerging Luxury Brands 2024*
-- 🏆 **Elle Style Awards** Nominee — Accessories Category
-- 🌍 Shipped to **18+ countries** worldwide
-
-*(Update with your actual press mentions)*
-
----
-
-## ✦ Connect With Us
+## ✦ Get in Touch
 
 <div align="center">
 
-| Platform | Link |
+| Channel | Details |
 |---|---|
 | 🌐 Website | [soireve.in](https://soireve.in) |
-| 📸 Instagram | [@soireve](https://instagram.com/soireve) |
-| 📩 Email | hello@soireve.in |
+| 📸 Instagram | [@soireve.in](https://www.instagram.com/soireve.in/) |
+| 📘 Facebook | [soireve.in](https://www.facebook.com/soireve.in/) |
+| 💬 WhatsApp | [+91 99305 55442](https://wa.me/919930555442) |
+| 📞 Phone | +91 99305 55442 |
+| 📩 Email | [info@soireve.in](mailto:info@soireve.in) |
 
 <br/>
 
-*© 2026 Soirée. All rights reserved. Crafted with love in India.*
+*© 2026 Soirée. All rights reserved. Crafted with love in India. 🇮🇳*
 
 </div>
