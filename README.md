@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/MQUhxOZ2QV7c0xFK/untitled-design_20260223_022221_0000-B7cN3takjUxgpPRP.png" alt="Soiréve — Luxury Gifting & Bags" width="50%"/>
+<img src="https://github.com/soireve/soireve.in/blob/main/logo.png" alt="Soiréve — Luxury Gifting & Bags" width="40%"/>
 
 <br/><br/>
 
